@@ -1,5 +1,5 @@
 ## Hi there 👋
-我是一个计算机小白
+这是一个计算机小白
 <!--
 **yzw4137/yzw4137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
